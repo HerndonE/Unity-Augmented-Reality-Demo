@@ -1,6 +1,6 @@
 # Unity Augmented Reality Demo
 
-1. [Download Demo Here](https://github.com/HerndonE/CSUMBRacingGame/blob/master/Game/CSUMB%20Racing.zip?raw=true)    
+1. [Download Demo Here](https://github.com/HerndonE/Unity-Augmented-Reality-Demo/blob/main/AR%20Demo/Build/android.apk?raw=true)    
 
 # Demo Images:    
 <p float="left">
